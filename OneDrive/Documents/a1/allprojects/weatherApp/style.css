@@ -1,0 +1,77 @@
+
+            body {
+                font-family: 'Arial', sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f4f4f4;
+            }
+    
+            h1 {
+                text-align: center;
+                color: #333;
+                margin-top: 20px;
+                font-size:large;
+            }
+    
+            div {
+
+             
+                max-width: 250px;
+                margin: 20px auto;
+                background-color: #fff;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
+    
+            .bg{
+
+                background-image: url("clouds.jpg");
+                padding: 30px 50px;
+                box-shadow: 4px 4px gray;
+
+            }
+
+            label {
+                display: block;
+                margin-bottom: 10px;
+                color: #555;
+            }
+    
+            input {
+                width: 100%;
+                padding: 8px;
+                margin-bottom: 20px;
+                box-sizing: border-box;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+            }
+    
+            button {
+                width: 100%;
+                padding: 10px;
+                background-color: #84c0eb;
+                color: #fff;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+    
+            button:hover {
+                background-color: #0ca8d4;
+            }
+    
+            #weatherInfo {
+                margin-top: 20px;
+                text-align: center;
+            }
+    
+            h2 {
+                color: #333;
+            }
+    
+            p {
+                margin: 5px 0;
+                color: #555;
+            }
+      
